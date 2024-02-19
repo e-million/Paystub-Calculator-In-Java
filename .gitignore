@@ -1,4 +1,4 @@
-/doc/*
+*.html
 
 # Compiled class file
 *.class
